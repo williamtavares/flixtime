@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:id="darkOverlay" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" fx:controller="flixtime.Controller" xmlns:fx="http://javafx.com/fxml" stylesheets="/resources/css/styles.css" onMouseClicked="#closeWindow">
+    <center>
+        <VBox fx:id="labelContainer" alignment="CENTER">
+            <children>
+                <HBox alignment="CENTER">
+                    <children>
+                        <Label text="Flix Mode Enabled" alignment="CENTER"></Label>
+                    </children>
+                </HBox>
+                <HBox fx:id="clickToClose" alignment="CENTER">
+                    <children>
+                        <Label text="(click to close)" alignment="CENTER"></Label>
+                    </children>
+                </HBox>
+            </children>
+        </VBox>
+    </center>
+</BorderPane>

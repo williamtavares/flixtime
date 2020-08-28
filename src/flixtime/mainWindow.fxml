@@ -1,0 +1,6 @@
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.ScrollPane?>
+<ScrollPane fx:controller="flixtime.Controller" xmlns:fx="http://javafx.com/fxml" stylesheets="/resources/css/styles.css" hbarPolicy="NEVER" vbarPolicy="AS_NEEDED">
+    <VBox fx:id="homeSection">
+    </VBox>
+</ScrollPane>
