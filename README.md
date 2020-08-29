@@ -6,6 +6,10 @@
 
 ---
 
+## Installation
+
+- <a href="https://github.com/williamtavares/flixtime/releases" target="_blank">`Link to Releases`</a>
+
 ## Contact
 
 - Website at <a href="http://williamtavares.com" target="_blank">`williamtavares.com`</a>
