@@ -1,6 +1,7 @@
 # FlixTime
 
 > FlixTime is a Windows Desktop app aimed at reducing distractions from other monitors by applying a dark overlay on the monitor of your choice. To close the overlay, simply click on it.
+
 ![FlixTime](https://i.gyazo.com/c3667045bca3e6d195294406ddd54682.png)
 
 ---
